@@ -1,0 +1,11 @@
+body{
+    background-color: silver;
+}
+.container{
+    background-color: white;
+    box-shadow: 0 0 10px;
+}
+.col{
+    background-color: lightcoral;
+    border: 1px solid black;
+}
