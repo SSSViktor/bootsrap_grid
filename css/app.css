@@ -1,11 +1,35 @@
-body{
-    background-color: silver;
+header,footer{
+    background-color: #b588e7;
+    height: 30px;
+    text-align: center;
 }
-.container{
-    background-color: white;
-    box-shadow: 0 0 10px;
+#container{
+    width: 80%;
+    margin: 0 auto;
 }
-.col{
-    background-color: lightcoral;
-    border: 1px solid black;
+#sidebar{
+    background-color: #e3b957;
+    height: 200px;
+    text-align: center;
+}
+#main{
+    background-color: #a7dc8a;
+    height: 150px;
+    text-align: center;
+}
+#widget{
+    background-color: #eb867c;
+    height: 50px;
+    text-align: center;
+}
+#statistics{
+    background-color: #91b7e8;
+    height: 50px;
+    text-align: center;
+}
+#all{
+    display:flex;
+}
+#lilcont{
+    display: flex;
 }
